@@ -51,14 +51,6 @@ end
 
 ### Header 6
 
-| People        | Research        | Publication | Contact |
-```
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-```
 ### There's a horizontal rule below this.
 
 * * *
