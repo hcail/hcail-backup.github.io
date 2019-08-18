@@ -1,0 +1,53 @@
+# jemdoc: menu{MENU}{people.html}, nofooter
+== People
+
+~~~
+{}{img_left}{http://www.hyunggujung.com/people/img/hcik2019_khu.JPG}{alt text}{480}{280}
+~~~
+
+~~~
+{}{raw}
+HCI Korea 2019, Jeju, Korea.
+~~~
+
+== Faculty
+~~~
+{}{table}{TABLENAME}{text_left}
+{{<img src="http://www.hyunggujung.com/img/bio_quebec.jpg" height="150" width="150" style="vertical-align: -4px">}}
+| *Hyunggu Jung* \n Assistant Professor
+~~~
+
+== Undergraduate Research Interns
+~~~
+{}{table}{TABLENAME}
+{{<img src="http://cdn.onlinewebfonts.com/svg/img_415067.png" width="150" style="vertical-align: -4px">}}
+| *Yiji Bae*
+#\n Department of Software Convergence
+\n Kyung Hee University
+| ~~~~~~~~~~~~~~~~~~~~~~~
+| {{<img src="http://cdn.onlinewebfonts.com/svg/img_415067.png" width="150" style="vertical-align: -4px">}}
+| *Heejae Jung*
+#\n Department of Software Convergence
+\n Kyung Hee University ||
+{{<img src="http://cdn.onlinewebfonts.com/svg/img_415067.png" width="150" style="vertical-align: -4px">}}
+| *Jihyun Lee*
+#\n Department of Software Convergence
+\n Kyung Hee University
+| ~~~~~~~~~~~~~~~~~~~~~~~
+| {{<img src="http://cdn.onlinewebfonts.com/svg/img_415067.png" width="150" style="vertical-align: -4px">}}
+| *Subin Park*
+#\n Department of Software Convergence
+\n Kyung Hee University ||
+{{<img src="http://cdn.onlinewebfonts.com/svg/img_415067.png" width="150" style="vertical-align: -4px">}}
+| *Minyeong Seo*
+#\n Department of Software Convergence
+\n Kyung Hee University
+|
+| {{<img src="http://cdn.onlinewebfonts.com/svg/img_415067.png" width="150" style="vertical-align: -4px">}}
+| *Taewon Yoo*
+#\n Department of Software Convergence
+\n Kyung Hee University
+~~~
+
+#== Research opportunities for KHU students
+#Would you be interested in contributing to our community through techniques and methods in HCI, Health, and Data Science? Feel free to email me if you are interested in discussing any potential research opportunities.
