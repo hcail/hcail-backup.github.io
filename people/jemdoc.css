@@ -1,4 +1,7 @@
 /* Default css file for jemdoc. */
+td.c2 {
+  text-align: left;
+}
 
 table#tlayout {
     border: none;
