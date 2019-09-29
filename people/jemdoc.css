@@ -368,3 +368,7 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+tr.r1 {
+  border-bottom: 10px solid white;
+}
