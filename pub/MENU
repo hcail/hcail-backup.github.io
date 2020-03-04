@@ -1,0 +1,10 @@
+#menu
+    Home                [../index.html]
+#    Research			[research.html]
+	Publications        [../pub/pub.html]
+  Members        [../people/people.html]
+#	Courses				[courses.html]
+#    Activities			[activities.html]
+
+#usefull links
+#   Jemdoc   		[http://jemdoc.jaboc.net/]

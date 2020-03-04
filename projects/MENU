@@ -1,0 +1,13 @@
+#menu
+    Home                [../index.html]
+    #Research			[research.html]
+    	Publications         [../pub/pub.html]
+  Students        [../people/people.html]
+	Projects	     [projects.html]
+	Teaching			[../teaching/teaching.html]
+	Service				[../service/service.html]
+#	Courses				[courses.html]
+#    Activities			[activities.html]
+
+#usefull links
+#   Jemdoc   		[http://jemdoc.jaboc.net/]
