@@ -1,205 +1,71 @@
 # jemdoc: menu{MENU}{projects.html}, nofooter
-== Projects
+= Projects
 
-~~~
-{}{img_left}{img/mr.jpeg}{alt text}{125}{125}
-*AI Application Technology with MR-IoT Convergence to Countermeasure Disasters*
-\nCo-Investigator, Ajou University (via Ministry of Science and ICT)
-\nJune 2018 - Dec. 2021 
-~~~
+== Current Projects
+The goal of our current projects is to support individuals with special needs through design and engineering across multiple domains:
+human-centered AI (\#1), health informatics (\#2, \#3, \#4), social computing (\#5, \#6), \& accessibility (\#7, \#8)
+but not limited to those areas.
+HCAIL is currently supported by two major grants: 1) the National Research Foundation of Korea (NRF)
+grant funded by the Korea government (MSIT), \& 2) the other by the University of Seoul.
 
-~~~
-{}{img_left}{img/da.jpg}{alt text}{125}{125}
-*Development of a Smartphone Application for Dietary Assessment*
-\nPrinciple Investigator, Kyung Hee University
-\nSep. 2018 - Aug. 2019 
-~~~
-
-~~~
-{}{img_left}{img/mc.jpg}{alt text}{125}{125}
-*Development of a Markov Chain Model for Predicting Head and Neck Squamous Cell Carcinoma Dissemination*
-\nAdvisor: Prof. Mark Whipple
-\nSep. 2014 - Present
-~~~
-
-~~~
-{}{img_left}{img/wiki.jpg}{alt text}{125}{125}
-*Development of the System that Supports Theoretical Models for Computer-supported Cooperative Work in Wikipedia*
-\nAdvisors: Profs. Mark Zachry and David McDonald
-\nSep. 2016 - Dec. 2017 
-~~~
-
-~~~
-{}{img_left}{img/hourworld.png}{alt text}{125}{125}
-*Development of Contextual Intelligence (CI) Technology for Facilitating Peer-to-peer Exchanges*~~\[[https://dl.acm.org/citation.cfm?id=2858036.2858263 acm dl]\]~\[[https://youtu.be/StztGLl7MVk video]\]
-\nAdvisor: Dr. Victoria Bellotti
-\nJune 2015 - Sep. 2015
-~~~
-
-~~~
-{}{img_left}{img/patientdemo.png}{alt text}{125}{125}
-*Development of an Interactive Demographic Visualization for Cohort Discovery*~~\[[img/VAHC2014_SLIDE_PDF.pdf slides]\]
-\nAdvisor: Prof. Kari A. Stephens
-\nJuly 2014 - Sep. 2014
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*Development of a Visual Analytics Tool for Assessing Attention during Presentation*
-\nAdvisor: Dr. Shamsi Iqbal
-\nJune 2013 - Sept. 2013, Mar. 2014 - Apr. 2014
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*Development of a Visual Analytics Tool for Discovering and Analyzing Raw Data*
-\nAdvisor: Christy Ballweber
-\nOct. 2013 - June 2014
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*Online Community of Practice (CoP) for Healthcare Providers*
-\nAdvisor: Prof. Wanda Pratt
-\nApr. 2013 - June 2013
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*CDC Winnable Battles: Nutrition, Physical Activity, and Obesity*
-\nAdvisor: Prof. Anne Turner
-\nJan. 2013 - Mar. 2013
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*Designing Technology Enhanced Solutions for Healthy Aging*
-\nPrincipal Investigator: Prof. George Demiris
-\nSep. 2012 - June 2013
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*Contextual Browsing of Online Health Forum Content with Concept Graphs*
-\nAdvisor: Prof. Jeffrey Heer
-\nApr. 2012 - June 2012
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*Ambient Interactive Video Call for Remote Communication*
-\nAdvisor: Prof. Wendy Mackay
-\nJan. 2012 - Mar. 2012
-~~~
-
-~~~
-{}{img_left}{img/geoparty.png}{alt text}{125}{125}
-*Explore Your (Virtual) World (Best Project Award)*~~\[[img/cs247_poster.png poster]\]~\[[https://youtu.be/HLUqfrGIHFE video]\]
-\nAdvisor: Prof. Jeffrey Heer
-\nJan. 2012 - Mar. 2012
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*MILES: A Mobile Health App*
-\nAdvisor: Prof. Scott Klemmer
-\nOct. 2011 - Dec. 2011
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*MyHealthDesk*~~\[[img/CS147_SLIDE.jpg slide]\]
-\nProf. Scott Klemmer
-\nSep. 2011 - Dec. 2011
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*Automated Reasoning for Application of Clinical Guidelines*
-\nPrincipal Investigator: Prof. Mark A. Musen
-\nSep. 2010 - Aug. 2011
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*Getting Things Done by Breaking Things Down*
-\nAdvisor: Prof. Scott Klemmer
-\nApr. 2011 - June 2011
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*VAIL Car Study*~~\[[img/vail268_slides.pdf slides]\]
-\nAdvisor: Prof. Clifford I. Nass
-\nJan. 2011 - June 2011
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*Physician Phinder*
-\nAdvisor: Prof. Mark A. Musen
-\nJan. 2011 - Mar. 2011
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*hSITE*
-\nAdvisors: Profs. Robin Cohen and Diane Doran
-\nMay 2009 - Aug. 2010
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*A Game-Theoretic Analysis of Information Security Games in General Cases: Risk-aversion User Agents*
-\nAdvisor: Prof. Urs Hengartner
-\nJan. 2009 - Apr. 2009
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*Analysis of Monte Carlo Methods*
-\nAdvisor: Prof. Gladimir V. G. Baranoski
-\nJan. 2009 - Apr. 2009
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*Multiagent System Research of Value for Hospital Triage Scenarios*
-\nAdvisor: Prof. Kate Larson
-\nSep. 2008 - Dec. 2008
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*An Effective Modeling of Utility Functions in Hospital Emergency Scenarios*
-\nAdvisor: Prof. Robin Cohen
-\nSep. 2008 - Dec. 2008
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*Preference Elicitation Group Project*
-\nAdvisor: Prof. Robin Cohen
-\nSep. 2008 - Nov. 2008
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*Autonomous Navigation using a Markov Decision Process (MDP)*
-\nAdvisor: Prof. Kee-Eung Kim
-\nFeb. 2008 - May 2008
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*Development of Solution for Desktop Management System (DMS)*
-\nDec. 2005 - Feb. 2006
-~~~
-
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{0}{0}{http://people.kth.se/~euhanna/}
-*Development of a Fire-training Simulation using 3D Virtual Reality Techniques*
-\nSep. 2003 - Dec. 2003
-~~~
+=== HUMAN-CENTERED AI
+*\#1. Developing methods that make machine learning algorithms fair, transparent, accountable, \& useful*
 
 
+=== HEALTH INFORMATICS
+*\#2. Creating tools for user-centered healthcare (mHealth)*
+~~~
+{}{img_left}{img/da.jpg}{alt text}{200}{200}
+- Development and Usability Assessment of a Food Record App for Dietary Assessments among Older Adults with Type 2 Diabetes. Under review at JMIR mHealth and uHealth.
+- Mutiv: Music-based Mobile Application to Support Joggers. In Proceedings of the 2016 IEEE International Conference on Healthcare Informatics, Chicago, IL, October 2016.
+~~~
+
+*\#3. Improving decision-making processes for precision medicine (clinical informatics)*
+~~~
+{}{img_left}{img/mc.jpg}{alt text}{200}{200}
+- Development of a Novel Markov Chain Model for the Prediction of Head and Neck Squamous Cell Carcinoma Dissemination. In AMIA Annual Symposium Proceedings. American Medical Informatics Association, 2016 Nov;2016:1832-39, Chicago, IL, November 2016.
+- Coordinated Markov Modeling of Cancer Metastasis from Multiple Primary Site. In Proceedings of the Conference of the Asia Pacific Association for Medical Informatics, Seoul, Korea, November 2016.
+- A Model of Regional Tumor Metastasis of Squamous Cell Carcinoma of the Tongue. In Proceedings of the American Head and Neck Society (AHNS) 9th International Conference on Head and Neck Cancer, Seattle, WA, July 2016.
+- Biological Model Development as an Opportunity to Provide Content Auditing for the Foundational Model of Anatomy Ontology. In AMIA Annual Symposium Proceedings. American Medical Informatics Association. 2015 Nov 5;2015:2111-20, San Francisco, CA, November 2015.
+~~~
+
+*\#4. Developing digital health information infrastructures (clinical research informatics)*
+~~~
+{}{img_left}{img/patientdemo.png}{alt text}{200}{200}
+- Examining Researcher Needs and Barriers for using Electronic Health Data for Translational Research. In AMIA Joint Summits Translational Science Proceedings. American Medical Informatics Association. 2015 Mar 25;2015:168-72, San Francisco, CA, March 2015.
+- Visualizing Anomalies in Electronic Health Record Data: The Variability Explorer Tool. In AMIA Joint Summits Translational Science Proceedings. American Medical Informatics Association. 2015 Mar 25;2015:56-60, San Francisco, CA, March 2015.
+- Interactive Demographic Visualization of Multiple Facilities across Time. In Proceedings of the 2014 Workshop on Visual Analytics in Healthcare (VAHC), Washington, D.C., November 2014.
+~~~
+
+=== SOCIAL COMPUTING
+*\#5. Facilitating credibility \& trust on online communities*
+~~~
+{}{img_left}{img/hourworld.png}{alt text}{200}{200}
+- Analyzing Bias of Comments on Political News Articles to Facilitate Transparent Online Communities. To appear at the Asian CHI Symposium 2020 at CHI'20. ACM, Honolulu, HI, USA, April 2020.
+- Understanding Users Privacy Attitudes through Subjective and Objective Assessments: An Instagram Case Study. IEEE Computer. 51(6):18-28, June 2018.
+- ‘MASTerful’ Matchmaking in Service Transactions: Inferred Abilities, Needs and Interests versus Activity Histories. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (pp. 1644-1655). ACM, San Jose, CA, May 2016.
+- Designing Tools to Support Advanced Users in New Forms of Social Media Interaction. In Proceedings of the 33rd Annual International Conference on the Design of Communication (p. 34). ACM, Limerick, Ireland, July 2015.
+~~~
+
+*\#6. Redesigning experiences of reviewers during a peer-review process*
+~~~
+{}{img_left}{img/affinity.png}{alt text}{200}{200}
+- Lee W, Kwon M, Hyun Y, Lee J, Gwon J, Jung H. (2020). Uncovering CHI Reviewers Needs and Barriers. In Proceedings of the Asian CHI Symposium 2020 at CHI'20. ACM, Honolulu, HI, USA, April 2020.
+~~~
+
+=== ACCESSIBILITY
+*\#7. Improving accessibility of social media for people with visual impairments*
+~~~
+{}{img_left}{img/pvi_youtube.png}{alt text}{200}{200}
+- Understanding the Community of Blind or Visually Impaired Vloggers on YouTube. Universal Access in the Information Society. January 2020.
+- Challenges and Opportunities to Improve the Accessibility of YouTube for Vloggers with Visual Impairments. In Proceedings of the Addressing the Accessibility of Social Media Workshop at CSCW'19. Association for Computing Machinery (ACM), Austin, TX, USA, November 2019.
+- Understanding Blind or Visually Impaired People on YouTube through Qualitative Analysis of Videos. In Proceedings of the ACM International Conference on Interactive Experiences for TV and Online Video. ACM, Seoul, Korea, June 2018.
+- Exploring the Community of Blind or Visually Impaired People on YouTube. In Proceedings of the 19th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’17). ACM, Baltimore, MD, USA, 371-2.
+~~~
+
+*\#8. Toward accessible daily living: challenges \& opportunities*
+~~~
+{}{img_left}{img/pvi_shop.png}{alt text}{200}{200}
+- Challenges and Opportunities for Accessible Seoul Metropolitan Buses: an Interview Study of People with Visual Impairments.  In Proceedings of the Asian CHI Symposium 2020 at CHI'20. ACM, Honolulu, HI, USA, April 2020.
+- Challenges and Design Opportunities for Easy, Economical, and Accessible Offline Shoppers with Visual Impairments.  In Proceedings of the Asian CHI Symposium 2020 at CHI'20. ACM, Honolulu, HI, USA, April 2020.
+~~~
